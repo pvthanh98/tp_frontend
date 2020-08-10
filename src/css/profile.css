@@ -1,0 +1,89 @@
+*, body{
+    padding:0px;
+    margin:0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.avt {
+    border-radius: 50%;
+    border:2px solid #396cb5;
+}
+
+.head{
+    color: #eff0f5;
+    text-align: center;
+    background-color: #26446a;
+    padding:16px;
+}
+
+.head h3 {
+    margin-top: 12px;
+}
+
+.basic-info{
+    padding:16px;
+    text-align: right;
+    background-color: #1a2a41;
+    color: #f8f9fa;
+}
+
+.hr{
+    background-color:white;
+    height:1px;
+    margin-bottom: 20px;
+}
+
+.hr-purple{
+    background-color:rgb(77, 13, 61);
+    height:1px;
+    margin-bottom: 20px;
+}
+.right-title{
+    color:#0f274d;
+}
+.specific{
+    margin-bottom: 40px;
+}
+
+.title {
+    display: flex;
+    margin-bottom:20px;
+}
+.title img{
+    height:35px
+}
+.icon {
+    margin-left:8px;
+    border: 1px solid white;
+    padding: 6px;
+    border-radius: 50%;
+}
+.my-ul li {
+    padding:8px;
+    list-style-type: none;
+}
+
+
+
+.bar {
+    background-color: #5dc9e5;
+    border:1px solid white;
+}
+.ability {
+    background-color: #1a2a41;
+    height:16px;
+}
+
+.skill-title {
+    padding:4px;
+}
+
+/* Ben phai */
+
+.detail-info {
+    background-color: #fff;
+}
+
+.title-h {
+    color:#1b66b2;
+}

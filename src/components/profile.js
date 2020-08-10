@@ -6,7 +6,7 @@ class Profile extends React.Component {
 				<div class="row">
 					<div class="col-md-5 full-screen-md">
 						<div class="head">
-							<img class="avt" src="img/avt.jpg" alt="" height="150px" />
+							<img class="avt" src="/img/profile/avt.jpg" alt="" height="150px" />
 							<h3>PHAN VAN THANH</h3>
 							<p>Website Developer</p>
 						</div>
@@ -15,7 +15,7 @@ class Profile extends React.Component {
 								<div class="title">
 									<img
 										class="mr-auto"
-                                        src="img/profile/call.svg"
+                                        src="/img/profile/call.svg"
                                         alt=""
 									/>
 									<hr />
@@ -59,7 +59,7 @@ class Profile extends React.Component {
 								<div class="title">
 									<img
 										class="mr-auto"
-                                        src="img/profile/language.svg"
+                                        src="/img/profile/language.svg"
                                         alt=""
 									/>
 									<h4 class="ml-auto">LANGUAGE</h4>
@@ -76,7 +76,7 @@ class Profile extends React.Component {
 								<div class="title">
 									<img
 										class="mr-auto"
-                                        src="img/profile/skill.svg"
+                                        src="/img/profile/skill.svg"
                                         alt=""
 									/>
 									<h4 class="ml-auto">SKILL</h4>
@@ -164,7 +164,7 @@ class Profile extends React.Component {
 								<h4 class="mr-auto right-title">ABOUT ME</h4>
 								<img
 									class="ml-auto"
-                                    src="img/profile/user.svg"
+                                    src="/img/profile/user.svg"
                                     alt=""
 								/>
 							</div>
@@ -183,7 +183,7 @@ class Profile extends React.Component {
 								<h4 class="mr-auto right-title">EDUCATION</h4>
 								<img
 									class="ml-auto"
-                                    src="img/profile/education.svg"
+                                    src="/img/profile/education.svg"
                                     alt=""
 								/>
 							</div>
@@ -200,7 +200,7 @@ class Profile extends React.Component {
 								<h4 class="mr-auto right-title">EXPERIENCE</h4>
 								<img
 									class="ml-auto"
-                                    src="img/profile/experience.svg"
+                                    src="/img/profile/experience.svg"
                                     alt=""
 								/>
 							</div>
@@ -265,7 +265,7 @@ class Profile extends React.Component {
 								<h4 class="mr-auto right-title">ACTIVITIES</h4>
 								<img
 									class="ml-auto"
-                                    src="img/profile/soccer.svg"
+                                    src="/img/profile/soccer.svg"
                                     alt=""
 								/>
 							</div>
